@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "원수정"
+  },
+  "text": {
+    "more": "\u003cp\u003e\n(데이터 출처: https://github.com/gephi/gephi/wiki/Datasets / S.Heymann \u0026 J.Palmier, 2008.)\n\u003c/p\u003e",
+    "intro": "Java 프로그램의 소스 코드 구조 ",
+    "title": "Java 소스 코드 구조"
+  },
+  "legend": {
+    "edgeLabel": "Java 프로그램의 소스 코드 구조",
+    "colorLabel": "Modulartity Class",
+    "nodeLabel": "Java 코드"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "type",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
