@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "\u003cp\u003e\n(데이터 출처: https://github.com/gephi/gephi/wiki/Datasets / S.Heymann \u0026 J.Palmier, 2008.)\n\u003c/p\u003e",
-    "intro": "Java 프로그램의 소스 코드 구조 ",
+    "intro": "Java 프로그램의 소스 코드 구조\n* 확대해야 코드가 보입니다.",
     "title": "Java 소스 코드 구조"
   },
   "legend": {
